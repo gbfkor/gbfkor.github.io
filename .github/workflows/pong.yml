@@ -13,3 +13,56 @@ jobs:
     - name: Get current date
       id: date
       run: echo "::set-output name=NOW::$(date +'%Y-%m-%d GMT%H:%M:%S')"
+    # 깃허브 페이지(웹페이지)의 repo
+    - name: Checkout site repo
+      uses: actions/checkout@v2
+      with:
+        path: base
+        ssh-key: ${{ secrets.SSH_KEY }}
+    # 데이터가 들어있는 repo
+    - name: Checkout data repo
+      uses: actions/checkout@v2
+      with:
+        repository: sidewinderk/gbfTransKor
+        path: data
+    # Data 파일 폴더 업데이트
+    - name: Copy data foloder
+      run: |
+        rm base/_posts/*.markdown
+        cp -r data/data/* base/_data
+    # 파이선 3.8버전 셋업
+    - name: Setup python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8
+    # Data repo의 Cache 폴더에 있는 각 스프레드 시트를 markdown 문서로 변환 및 저장
+    - name: Run python script
+      run: python ./base/.github/workflows/extractPosts.py
+    # GitHub 업데이트 #1
+    - name: check for changes
+      run: |
+         cd base
+         git status
+    # GitHub 업데이트 #2
+    - name: stage changed files
+      run: |
+         cd base
+         git add _posts
+         git add _data
+    # GitHub 업데이트 #3
+    - name: commit changed files
+      run: |
+         cd base
+         git config --local user.email "side.granblue@gmail.com"
+         git config --local user.name "gbfkor"
+         git commit -m "${{ steps.date.outputs.NOW }}"
+    # GitHub 업데이트 #4
+    - name: fetch from master
+      run: |
+         cd base
+         git fetch origin master
+    # GitHub 업데이트 #5
+    - name: push code to master
+      run: |
+         cd base
+         git push origin HEAD:master

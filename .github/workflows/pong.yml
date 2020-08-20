@@ -1,0 +1,15 @@
+name: Pong GitHub Pages
+
+on:
+  repository_dispatch:
+
+jobs:
+  build:
+    # ping 이 왔을 때만 실행
+    if: github.event.action == 'ping'
+    runs-on: ubuntu-latest
+    steps:
+    # Commit 메세지에 적을 업데이트 시각
+    - name: Get current date
+      id: date
+      run: echo "::set-output name=NOW::$(date +'%Y-%m-%d GMT%H:%M:%S')"

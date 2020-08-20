@@ -1,0 +1,72 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+        {{ page.date | date: date_format }}
+      </time>
+      {%- if page.author -%}
+        • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author }}</span></span>
+      {%- endif -%}</p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+    {%- if page.SceneCode -%}
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <div id="toc_container">
+    <p class="toc_title">Contents</p>
+    <ul class="toc_list">
+      {% assign iIndex = 0 %}
+      {% for qCode in page.SceneCode %}
+        {% assign iIndex = iIndex | plus:1 %}
+      <li><a href="#TEST_{{ iIndex }}"> {{ iIndex }} 절 </a></li>
+      {% endfor %}
+    </ul>
+    </div>
+    {% assign i = 0 %}
+    {% for qCode in page.SceneCode %}
+    {% assign i = i | plus:1 %}
+    <a href="#top"><h4 id="TEST_{{ i }}">{{ i }} 절</h4></a>
+    {% for line in site.data.quest %}
+    {% assign LANGUAGE = "Japanese" %}
+    {% if line.SceneCode contains qCode %}
+    {% if line.Language == LANGUAGE %}
+    {% if line.Korean %}
+    {% if line.Type == "synopsis" %}
+    <div class="pop">
+    <div class="txt-synopsis">이 이야기의 줄거리</div>
+    {{line.Korean}}
+    </div><br>
+    {% else %}
+    {% if line.Name %}
+    <div class="prt-scene-comment">
+    <div class="txt-character-name"><span>{{line.Name}}</span></div>
+    <div class="prt-message-area"><span class="txt-message typist-container" style="color: rgb(221, 221, 221); font-family: inherit; height: auto;">{{line.Korean}}</span></div>
+    </div>
+    {% else %}
+    <div class="prt-scene-comment">
+    <div class="txt-character-name"><span>{{line.Name}}</span></div>
+    <div class="prt-message-area"><span class="txt-message typist-container" style="color: rgb(221, 221, 221); font-family: inherit; height: auto;">{{line.Korean}}</span></div>
+    </div>
+    {% endif %}
+    {% endif %}
+    {% endif %}
+    {% endif %}
+    {% endif %}
+    {% endfor %}
+    {% endfor %}
+    {%- endif -%}
+  </div>
+
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+
+  <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
+</article>

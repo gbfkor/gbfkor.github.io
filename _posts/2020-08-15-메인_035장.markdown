@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "메인_035장"
-date:   2020-08-24 12:00:00 +0000
+date:   2020-08-24 13:00:00 +0000
 categories: Main
 Tags: Story Main
 SceneCode: ["scene_cp35_q1_s10,3511", "scene_cp35_q1_s20,3512", "scene_cp35_q2_s10,3521", "scene_cp35_q2_s20,3522", "scene_cp35_q3_s10,3531", "scene_cp35_q3_s20,3532", "scene_cp35_q4_s10,3541", "scene_cp35_q4_s20,3542", "scene_cp35_q4_s30,3543"]

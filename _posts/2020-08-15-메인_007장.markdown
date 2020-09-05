@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "메인_007장"
-date:   2020-08-31 20:00:00 +0000
+date:   2020-09-05 05:00:00 +0000
 categories: Main
 Tags: Story Main
 SceneCode: ["scene_cp7_q1_s10,711", "scene_cp7_q1_s20,712", "scene_cp7_q2_s10,721", "scene_cp7_q2_s20,722", "scene_cp7_q3_s10,731", "scene_cp7_q3_s20,732", "scene_cp7_q4_s10,741", "scene_cp7_q4_s20,742", "scene_cp7_q4_s30,743"]

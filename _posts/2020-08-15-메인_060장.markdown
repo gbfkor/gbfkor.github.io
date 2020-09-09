@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "메인_060장"
-date:   2020-09-09 04:00:00 +0000
+date:   2020-09-09 05:00:00 +0000
 categories: Main
 Tags: Story Main
 SceneCode: ["scene_cp60_q1_s10,6011", "scene_cp60_q2_s10,6021", "scene_cp60_q2_s20,6022", "scene_cp60_q3_s10,6031", "scene_cp60_q3_s20,6032", "scene_cp60_q4_s10,6041", "scene_cp60_q4_s30,6042"]

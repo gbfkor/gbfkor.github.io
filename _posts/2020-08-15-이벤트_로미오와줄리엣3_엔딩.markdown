@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_로미오와줄리엣3_엔딩"
-date:   2020-09-09 05:00:00 +0000
+date:   2020-09-12 08:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt200829_cp0_q2_s10,7569711", "scene_evt200829_cp0_q2_s10_a,7569721"]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "메인_002장"
-date:   2020-11-03 09:00:00 +0000
+date:   2020-11-03 10:00:00 +0000
 categories: Main
 Tags: Story Main
 SceneCode: ["scene_cp2_q1_s10,211", "scene_cp2_q1_s20,212", "scene_cp2_q2_s10,221", "scene_cp2_q2_s20,222", "scene_cp2_q3_s10,231", "scene_cp2_q3_s20,232", "scene_cp2_q4_s10,241", "scene_cp2_q4_s20,242", "scene_cp2_q4_s30,243"]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_웰더(R)"
-date:   2020-12-14 08:00:00 +0000
+date:   2020-12-15 07:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_chr001_ep1", "scene_chr001_q1_s10", "scene_chr001_q2_s10", "scene_chr001_q2_s20"]

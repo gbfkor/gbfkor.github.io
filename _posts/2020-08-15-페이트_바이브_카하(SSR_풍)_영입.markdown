@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_바이브_카하(SSR_풍)_영입"
-date:   2020-12-31 08:00:00 +0000
+date:   2020-12-31 12:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_chr543_ep1", "scene_chr543_q1_s20"]

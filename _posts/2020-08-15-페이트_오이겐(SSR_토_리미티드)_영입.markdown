@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_오이겐(SSR_토_리미티드)_영입"
-date:   2021-01-01 08:00:00 +0000
+date:   2021-01-01 15:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_chr252_ep1", "scene_chr252_q1_s10"]

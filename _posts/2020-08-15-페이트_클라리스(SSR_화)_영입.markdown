@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_클라리스(SSR_화)_영입"
-date:   2021-01-22 20:00:00 +0000
+date:   2021-01-22 21:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_chr145_ep1", "scene_chr145_q1_s10"]

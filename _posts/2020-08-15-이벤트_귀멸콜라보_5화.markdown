@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_귀멸콜라보_5화"
-date:   2021-02-01 15:00:00 +0000
+date:   2021-02-01 20:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt201208_cp5_q1_s10", "scene_evt201208_cp5_q2_s10", "scene_evt201208_cp5_q3_s10", "scene_evt201208_cp5_q4_s10"]

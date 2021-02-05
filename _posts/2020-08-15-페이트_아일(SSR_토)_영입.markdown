@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_아일(SSR_토)_영입"
-date:   2021-02-05 02:00:00 +0000
+date:   2021-02-05 03:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_chr272_ep1", "scene_chr272_q1_s10", "scene_chr272_q2_s10", "scene_chr272_q3_s10", "scene_chr272_q3_s20", "scene_ult_chr272_ep1_q1_s20", "scene_ult_chr272_ep1_q2_s20", "scene_ult_chr272_ep1_q3_s10", "scene_ult_chr272_ep1_q4_s10"]

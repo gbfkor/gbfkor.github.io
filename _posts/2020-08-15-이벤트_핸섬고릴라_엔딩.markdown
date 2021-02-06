@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_핸섬고릴라_엔딩"
-date:   2021-02-05 14:00:00 +0000
+date:   2021-02-06 01:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt180531_cp0_q2_s10_com3"]

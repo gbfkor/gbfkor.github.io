@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_잔_다르크(SSR_광)_영입"
-date:   2021-02-11 22:00:00 +0000
+date:   2021-02-11 23:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_chr114_ep1", "scene_chr114_q1_s10"]

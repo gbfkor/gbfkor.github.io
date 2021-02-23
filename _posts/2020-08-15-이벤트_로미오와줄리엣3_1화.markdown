@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_로미오와줄리엣3_1화"
-date:   2021-02-23 04:00:00 +0000
+date:   2021-02-23 07:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt200829_cp1_q1_s10,7569111", "scene_evt200829_cp1_q2_s10,7569121", "scene_evt200829_cp1_q3_s10,7569131", "scene_evt200829_cp1_q4_s10,7569141"]

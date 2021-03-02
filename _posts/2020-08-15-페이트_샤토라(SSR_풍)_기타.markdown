@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_샤토라(SSR_풍)_기타"
-date:   2021-03-02 06:00:00 +0000
+date:   2021-03-02 07:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_xro_090_ep1"]

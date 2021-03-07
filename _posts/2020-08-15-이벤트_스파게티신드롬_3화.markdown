@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_스파게티신드롬_3화"
-date:   2021-03-07 00:00:00 +0000
+date:   2021-03-07 04:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt200128_cp3_q1_s20", "scene_evt200128_cp3_q1_s30", "scene_evt200128_cp3_q2_s10", "scene_evt200128_cp3_q3_s10", "scene_evt200128_cp3_q4_s20"]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_바알(SSR_토)_영입"
-date:   2021-03-09 02:00:00 +0000
+date:   2021-03-09 03:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_chr539_ep1", "scene_chr539_q1_s10"]

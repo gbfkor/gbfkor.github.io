@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_지크프리트(SSR_토)_최종"
-date:   2021-03-10 18:00:00 +0000
+date:   2021-03-10 20:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_ult_chr110_ep1_q1_s10", "scene_ult_chr110_ep1_q2_s10", "scene_ult_chr110_ep1_q3_s10", "scene_ult_chr110_ep1_q3_s20"]

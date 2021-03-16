@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_등환연리쌍지_0화_오프닝"
-date:   2021-03-16 06:00:00 +0000
+date:   2021-03-16 09:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt210129_cp0_q1_s10"]

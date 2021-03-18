@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_나의_사랑스러운_아우규스테_5화"
-date:   2021-03-18 10:00:00 +0000
+date:   2021-03-18 13:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt200729_cp5_q1_s10,7559511", "scene_evt200729_cp5_q2_s10,7559521", "scene_evt200729_cp5_q3_s10,7559531", "scene_evt200729_cp5_q4_s20,7559541", "scene_evt200729_cp5_q4_s30,7559542"]

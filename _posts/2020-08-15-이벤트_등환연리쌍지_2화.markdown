@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_등환연리쌍지_2화"
-date:   2021-03-30 04:00:00 +0000
+date:   2021-03-30 05:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt210129_cp2_q1_s10", "scene_evt210129_cp2_q2_s10", "scene_evt210129_cp2_q3_s10", "scene_evt210129_cp2_q4_s10"]

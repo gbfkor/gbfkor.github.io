@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_스파게티신드롬_엔딩"
-date:   2021-04-06 15:00:00 +0000
+date:   2021-04-06 16:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt200128_cp0_q2_s10", "scene_evt200128_cp0_q2_s10_a"]

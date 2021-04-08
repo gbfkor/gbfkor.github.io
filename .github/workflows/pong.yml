@@ -28,7 +28,7 @@ jobs:
     # Data 파일 폴더 업데이트
     - name: Copy data foloder
       run: |
-        rm base/_posts/*.markdown
+        find base/_posts -type f -name "*.markdown" -exec rm {} \;
         cp -r data/data/* base/_data
     # 파이선 3.8버전 셋업
     - name: Setup python

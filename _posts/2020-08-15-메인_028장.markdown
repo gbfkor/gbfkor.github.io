@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "메인_028장"
-date:   2021-04-13 23:00:00 +0000
+date:   2021-04-14 00:00:00 +0000
 categories: Main
 Tags: Story Main
 SceneCode: ["scene_cp28_q1_s10,2811", "scene_cp28_q1_s20,2812", "scene_cp28_q2_s10,2821", "scene_cp28_q2_s20,2822", "scene_cp28_q3_s10,2831", "scene_cp28_q3_s20,2832", "scene_cp28_q4_s10,2841", "scene_cp28_q4_s20,2842", "scene_cp28_q4_s30,2843"]

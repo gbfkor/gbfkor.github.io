@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_2020여름_2화"
-date:   2021-05-07 09:00:00 +0000
+date:   2021-05-07 10:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt200628_cp2_q1_s10,7556211", "scene_evt200628_cp2_q2_s10,7556221", "scene_evt200628_cp2_q3_s10,7556231", "scene_evt200628_cp2_q4_s10,7556241"]

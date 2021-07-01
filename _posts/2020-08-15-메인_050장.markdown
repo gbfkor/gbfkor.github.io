@@ -1,8 +1,0 @@
----
-layout: post
-title:  "메인_050장"
-date:   2021-06-28 10:00:00 +0000
-categories: Main
-Tags: Story Main
-SceneCode: ["scene_cp50_q1_s10,5011", "scene_cp50_q2_s10,5021", "scene_cp50_q2_s20,5022", "scene_cp50_q3_s20,5031", "scene_cp50_q4_s20,5041", "scene_cp50_q4_s30,5042"]
----

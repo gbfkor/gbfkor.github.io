@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_로보미Z_0화_오프닝"
-date:   2021-07-09 08:00:00 +0000
+date:   2021-07-10 04:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: []

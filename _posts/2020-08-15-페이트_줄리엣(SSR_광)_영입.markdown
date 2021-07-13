@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_줄리엣(SSR_광)_영입"
-date:   2021-07-13 05:00:00 +0000
+date:   2021-07-13 06:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_chr318_ep1", "scene_chr318_q1_s10"]

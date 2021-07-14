@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "메인_056장"
-date:   2021-07-14 01:00:00 +0000
+date:   2021-07-14 09:00:00 +0000
 categories: Main
 Tags: Story Main
 SceneCode: ["scene_cp56_q1_s10,5611", "scene_cp56_q1_s20,5612", "scene_cp56_q2_s10,5621", "scene_cp56_q2_s20,5622", "scene_cp56_q3_s10,5631", "scene_cp56_q3_s20,5632", "scene_cp56_q4_s10,5641", "scene_cp56_q4_s20,5642", "scene_cp56_q4_s30,5643"]

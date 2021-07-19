@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_스테이문_1부_4화"
-date:   2021-07-19 06:00:00 +0000
+date:   2021-07-19 12:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt210226_cp4_q1_s10", "scene_evt210226_cp4_q2_s10", "scene_evt210226_cp4_q3_s10", "scene_evt210226_cp4_q4_s10"]

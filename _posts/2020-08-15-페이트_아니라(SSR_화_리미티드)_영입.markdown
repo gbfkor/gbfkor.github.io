@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_아니라(SSR_화_리미티드)_영입"
-date:   2021-07-24 00:00:00 +0000
+date:   2021-07-24 01:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_chr106_ep1", "scene_chr106_q1_s10"]

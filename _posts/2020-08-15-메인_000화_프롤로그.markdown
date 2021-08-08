@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "메인_000화_프롤로그"
-date:   2021-08-07 21:00:00 +0000
+date:   2021-08-08 08:00:00 +0000
 categories: Main
 Tags: Story Main
 SceneCode: ["scene_tutorial00,011", "scene_tutorial01,021", "scene_tutorial02,031", "scene_tutorial03,041"]

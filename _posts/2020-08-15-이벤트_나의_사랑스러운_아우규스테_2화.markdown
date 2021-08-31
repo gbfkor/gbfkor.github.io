@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_나의_사랑스러운_아우규스테_2화"
-date:   2021-08-31 09:00:00 +0000
+date:   2021-08-31 10:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt200729_cp2_q1_s10,7559211", "scene_evt200729_cp2_q2_s10,7559221", "scene_evt200729_cp2_q3_s10,7559231", "scene_evt200729_cp2_q4_s10,7559241"]

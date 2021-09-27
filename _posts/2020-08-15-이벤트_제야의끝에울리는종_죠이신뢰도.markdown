@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_제야의끝에울리는종_죠이신뢰도"
-date:   2021-09-27 12:00:00 +0000
+date:   2021-09-27 13:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt191228_trust1", "scene_evt191228_trust9", "scene_evt191228_trust6", "scene_evt191228_trust2", "scene_evt191228_trust7", "scene_evt191228_trust8"]

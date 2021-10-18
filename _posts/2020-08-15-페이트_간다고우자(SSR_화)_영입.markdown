@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "페이트_간다고우자(SSR_화)_영입"
+date:   2021-10-18 07:00:00 +0000
+categories: Fate
+Tags: Story Fate
+SceneCode: ["scene_fate_chr171_ep1", "scene_chr171_q1_s10"]
+---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_은혼콜라보_3.5화"
-date:   2021-10-24 02:00:00 +0000
+date:   2021-10-24 15:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt211015_cp0_q2_s10"]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_리리(SSR_수)_영입"
-date:   2021-10-27 08:00:00 +0000
+date:   2021-10-27 09:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_chr021_ep1", "scene_chr021_q1_s10"]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "메인_029장"
-date:   2021-10-27 22:00:00 +0000
+date:   2021-10-27 23:00:00 +0000
 categories: Main
 Tags: Story Main
 SceneCode: ["scene_cp29_q1_s10,2911", "scene_cp29_q1_s20,2912", "scene_cp29_q2_s10,2921", "scene_cp29_q2_s20,2922", "scene_cp29_q3_s10,2931", "scene_cp29_q3_s20,2932", "scene_cp29_q4_s10,2941", "scene_cp29_q4_s20,2942", "scene_cp29_q4_s30,2943"]

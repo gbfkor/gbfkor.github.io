@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_제야의끝에울리는종_2화"
-date:   2021-12-08 08:00:00 +0000
+date:   2021-12-08 09:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt191228_cp2_q1_s10", "scene_evt191228_cp2_q2_s10", "scene_evt191228_cp2_q3_s10", "scene_evt191228_cp2_q4_s10"]

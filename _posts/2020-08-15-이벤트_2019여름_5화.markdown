@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_2019여름_5화"
-date:   2021-12-12 07:00:00 +0000
+date:   2021-12-12 08:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt190627_cp5_q1_s10,7428511", "scene_evt190627_cp5_q2_s10,7428521", "scene_evt190627_cp5_q3_s10,7428531", "scene_evt190627_cp5_q4_s10,7428541"]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_헤르에스(SSR_화)_영입"
-date:   2021-12-16 13:00:00 +0000
+date:   2021-12-16 14:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_chr199_ep1", "scene_chr199_q1_s10"]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_은혼콜라보_0화_오프닝"
-date:   2021-12-18 13:00:00 +0000
+date:   2021-12-18 14:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt211015_cp0_q1_s10"]

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "이벤트_나의_사랑스러운_아우규스테_4화"
+date:   2021-12-20 06:00:00 +0000
+categories: Event
+Tags: Story Event
+SceneCode: ["scene_evt200729_cp4_q1_s10,7559411", "scene_evt200729_cp4_q2_s10,7559421", "scene_evt200729_cp4_q3_s10,7559431", "scene_evt200729_cp4_q4_s10,7559441"]
+---

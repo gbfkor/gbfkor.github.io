@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "이벤트_2020여름_0화_오프닝"
+date:   2021-12-20 06:00:00 +0000
+categories: Event
+Tags: Story Event
+SceneCode: ["scene_evt200628_cp0_q1_s10"]
+---

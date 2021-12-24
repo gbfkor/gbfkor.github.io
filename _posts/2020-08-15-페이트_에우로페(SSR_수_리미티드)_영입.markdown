@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_에우로페(SSR_수_리미티드)_영입"
-date:   2021-12-24 09:00:00 +0000
+date:   2021-12-24 12:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_chr501_ep1", "scene_chr501_q1_s10"]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_핸섬고릴라_3화"
-date:   2021-12-25 09:00:00 +0000
+date:   2021-12-25 10:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt180531_cp3_q1_s10", "scene_evt180531_cp3_q2_s10_a", "scene_evt180531_cp3_q2_s10_b", "scene_evt180531_cp3_q3_s10", "scene_evt180531_cp3_q4_s20"]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_스파게티신드롬_0화_오프닝"
-date:   2021-12-29 07:00:00 +0000
+date:   2021-12-29 18:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt200128_cp0_q1_s10"]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_스테이문_2부_1화"
-date:   2021-12-30 13:00:00 +0000
+date:   2021-12-30 15:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt210303_cp5_q1_s10", "scene_evt210303_cp5_q2_s20", "scene_evt210303_cp5_q3_s10", "scene_evt210303_cp5_q4_s20"]

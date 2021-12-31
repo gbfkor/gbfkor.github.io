@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_2020여름_3화"
-date:   2021-12-31 10:00:00 +0000
+date:   2021-12-31 11:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt200628_cp3_q1_s10,7556311", "scene_evt200628_cp3_q2_s10,7556321", "scene_evt200628_cp3_q3_s10,7556331", "scene_evt200628_cp3_q4_s20,7556341"]

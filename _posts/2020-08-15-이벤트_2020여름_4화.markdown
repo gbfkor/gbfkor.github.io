@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_2020여름_4화"
-date:   2022-01-01 15:00:00 +0000
+date:   2022-01-01 16:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt200628_cp4_q1_s10,7556411", "scene_evt200628_cp4_q2_s10,7556421", "scene_evt200628_cp4_q3_s10,7556431", "scene_evt200628_cp4_q4_s10,7556441"]

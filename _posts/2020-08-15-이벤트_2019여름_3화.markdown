@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_2019여름_3화"
-date:   2022-01-02 16:00:00 +0000
+date:   2022-01-02 17:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt190627_cp3_q1_s10,7428311", "scene_evt190627_cp3_q2_s10,7428321", "scene_evt190627_cp3_q3_s10,7428331", "scene_evt190627_cp3_q4_s20,7428341", "scene_evt190627_cp3_q4_s30,7428342"]

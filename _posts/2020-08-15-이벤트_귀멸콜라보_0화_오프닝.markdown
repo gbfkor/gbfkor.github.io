@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "이벤트_귀멸콜라보_0화_오프닝"
-date:   2022-01-04 01:00:00 +0000
+date:   2022-01-04 03:00:00 +0000
 categories: Event
 Tags: Story Event
 SceneCode: ["scene_evt201208_cp0_q1_s10"]

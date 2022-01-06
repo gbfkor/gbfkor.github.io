@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_리샤(SSR_풍_리미티드)_영입"
-date:   2022-01-06 04:00:00 +0000
+date:   2022-01-06 07:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_chr333_ep1", "scene_chr333_q1_s10"]

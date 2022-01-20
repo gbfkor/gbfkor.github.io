@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "페이트_레_피에(SSR_광)_영입"
-date:   2022-01-19 04:00:00 +0000
+date:   2022-01-20 00:00:00 +0000
 categories: Fate
 Tags: Story Fate
 SceneCode: ["scene_fate_chr006_ep1", "scene_chr006_q1_s10"]

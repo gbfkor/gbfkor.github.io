@@ -1,8 +1,0 @@
----
-layout: post
-title:  "페이트_아오이도스(SSR_화)_영입"
-date:   2022-02-24 11:00:00 +0000
-categories: Fate
-Tags: Story Fate
-SceneCode: ["scene_fate_chr239_ep1", "scene_chr239_q1_s10"]
----

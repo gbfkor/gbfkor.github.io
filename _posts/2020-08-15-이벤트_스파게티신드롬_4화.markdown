@@ -1,8 +1,0 @@
----
-layout: post
-title:  "이벤트_스파게티신드롬_4화"
-date:   2022-03-03 04:00:00 +0000
-categories: Event
-Tags: Story Event
-SceneCode: ["scene_evt200128_cp4_q1_s10", "scene_evt200128_cp4_q2_s10", "scene_evt200128_cp4_q3_s10", "scene_evt200128_cp4_q4_s10"]
----

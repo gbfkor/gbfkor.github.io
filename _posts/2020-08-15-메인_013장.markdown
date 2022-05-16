@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "메인_013장"
+date:   2022-05-16 21:00:00 +0000
+categories: Main
+Tags: Story Main
+SceneCode: ["scene_cp13_q1_s10,1311", "scene_cp13_q1_s20,1312", "scene_cp13_q2_s10,1321", "scene_cp13_q2_s20,1322", "scene_cp13_q3_s10,1331", "scene_cp13_q3_s20,1332", "scene_cp13_q4_s10,1341", "scene_cp13_q4_s20,1342", "scene_cp13_q4_s30,1343"]
+---

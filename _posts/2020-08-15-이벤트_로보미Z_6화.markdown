@@ -1,8 +1,0 @@
----
-layout: post
-title:  "이벤트_로보미Z_6화"
-date:   2022-05-18 09:00:00 +0000
-categories: Event
-Tags: Story Event
-SceneCode: []
----

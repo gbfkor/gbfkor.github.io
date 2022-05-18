@@ -1,8 +1,0 @@
----
-layout: post
-title:  "이벤트_십이신장회의_3화"
-date:   2022-05-18 09:00:00 +0000
-categories: Event
-Tags: Story Event
-SceneCode: ["scene_evt210329_cp3_q1_s10", "scene_evt210329_cp3_q2_s10", "scene_evt210329_cp3_q3_s10", "scene_evt210329_cp3_q4_s20"]
----

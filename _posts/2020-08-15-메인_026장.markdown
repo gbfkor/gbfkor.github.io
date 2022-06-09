@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "메인_026장"
-date:   2022-06-09 18:00:00 +0000
+date:   2022-06-09 19:00:00 +0000
 categories: Main
 Tags: Story Main
 SceneCode: ["scene_cp26_q1_s10,2611", "scene_cp26_q1_s20,2612", "scene_cp26_q2_s10,2621", "scene_cp26_q2_s20,2622", "scene_cp26_q3_s10,2631", "scene_cp26_q3_s20,2632", "scene_cp26_q4_s10,2641", "scene_cp26_q4_s20,2642", "scene_cp26_q4_s30,2643"]

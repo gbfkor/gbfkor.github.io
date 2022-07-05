@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "튜토리얼06"
+date:   2022-07-05 10:00:00 +0000
+categories: Etc
+Tags: Story Etc
+SceneCode: ["scene_tutorial06"]
+---

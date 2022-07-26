@@ -1,8 +1,0 @@
----
-layout: post
-title:  "이벤트_OLD_BOND_2화"
-date:   2022-07-22 18:00:00 +0000
-categories: Event
-Tags: Story Event
-SceneCode: ["scene_evt211228_cp2_q1_s10", "scene_evt211228_cp2_q2_s10", "scene_evt211228_cp2_q3_s10", "scene_evt211228_cp2_q4_s10"]
----

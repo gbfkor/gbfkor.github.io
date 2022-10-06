@@ -1,8 +1,0 @@
----
-layout: post
-title:  "튜토리얼04"
-date:   2022-10-04 11:00:00 +0000
-categories: Etc
-Tags: Story Etc
-SceneCode: ["scene_tutorial05"]
----

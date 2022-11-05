@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "이벤트_OLD_BOND_엑스트라"
+date:   2022-11-05 03:00:00 +0000
+categories: Event
+Tags: Story Event
+SceneCode: ["scene_evt211228_cp0_q3_s10"]
+---

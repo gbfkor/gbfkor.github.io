@@ -1,8 +1,0 @@
----
-layout: post
-title:  "이벤트_제야의끝에울리는종_6화"
-date:   2022-11-05 03:00:00 +0000
-categories: Event
-Tags: Story Event
-SceneCode: ["scene_evt191228_cp6_q1_s10", "scene_evt191228_cp6_q2_s10", "scene_evt191228_cp6_q3_s10", "scene_evt191228_cp6_q4_s20"]
----

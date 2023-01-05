@@ -1,8 +1,0 @@
----
-layout: post
-title:  "페이트_칼리오스트로(SSR_토)_영입"
-date:   2022-12-26 21:00:00 +0000
-categories: Fate
-Tags: Story Fate
-SceneCode: ["scene_fate_chr045_ep1", "scene_chr045_q1_s10"]
----

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "이벤트_원피스콜라보_RedToBlue_1화"
+date:   2023-01-05 08:00:00 +0000
+categories: Event
+Tags: Story Event
+SceneCode: ["scene_evt220914_cp1_q1_s10", "scene_evt220914_cp1_q2_s10", "scene_evt220914_cp1_q3_s10", "scene_evt220914_cp1_q4_s10"]
+---

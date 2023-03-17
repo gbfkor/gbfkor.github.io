@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "이벤트_핸섬고릴라_0화_오프닝"
+date:   2023-03-17 15:00:00 +0000
+categories: Event
+Tags: Story Event
+SceneCode: ["scene_evt180531_cp0_q1_s10"]
+---
